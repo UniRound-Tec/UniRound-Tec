@@ -1,5 +1,7 @@
-## Hi there 👋
+## UniRound Tec 👋
+UniRound Tec. is a general artificial intelligence company, focusing on AI hardware and have developed innovative products such as Aurogen.
 
+UniRound Tec. is dedicated to disruptive innovations by integrating AI and hardware. The goal is to unleash the generalization of Artificial General Intelligence (AGI) in the physical world. Based on revolutionizing core software and hardware technologies, and building first-of-its-kind self-evolving agent architecture, we aim to provide new hardware platforms and AI toolkits with evolutionary, secure, and versatile capabilities for innovators and consumers. We promote the widespread applications of AI across B2B & B2C sectors, including R&D, manufacturing, business and households services.
 <!--
 **UniRound-Tec/UniRound-Tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
